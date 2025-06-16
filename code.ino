@@ -311,7 +311,7 @@ void handleNewMessages(int numNewMessages){
     }
     
     if (text == "/start"){
-      String welcome = "Welcome to the MALEKZAH Telegram bot.\n";
+      String welcome = "Welcome to the Mouhammad Telegram bot.\n";
       welcome += "/photo : takes a new photo\n";
       welcome += "/flash : toggle flash LED\n";
       welcome += "/readings : request sensor readings\n\n";
